@@ -1,3 +1,8 @@
+In this digital age, downloading videos is a common practice. However, relying on third-party download managers can be risky, as they may contain malware or unwanted software.
+
+Python, a versatile programming language, offers a secure alternative. By writing Python code specifically tailored to the video platform you're using, you can download videos directly without the need for external download managers. This approach minimizes the risk of encountering viruses or bundled software often associated with third-party downloaders.
+
+
 Task 1: we need to downloaded the video by using python code for this we need the following steps.
 1. Downloading a File Using requests
 Import the requests library: bold text Define a function to download a file:
